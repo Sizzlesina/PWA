@@ -62,7 +62,7 @@ Throughout this course, we will be using various tools and technologies, includi
 - Firebase (for deploying your PWA)
 
 ## Instructor
-Maximilian is a seasoned web developer with extensive experience in building and deploying Progressive Web Apps. [Instructor's Name] has worked on numerous projects that leverage the power of PWAs to deliver exceptional user experiences.
+Maximilian is a seasoned web developer with extensive experience in building and deploying Progressive Web Apps. Maximilian has worked on numerous projects that leverage the power of PWAs to deliver exceptional user experiences.
 
 ## Enroll Now
 Join us on this exciting journey to master Progressive Web Apps and build modern, high-performance web applications that your users will love!
