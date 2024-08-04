@@ -1,0 +1,1 @@
+## For creating such a pwa react application use ``` npx create-react-app project-name --template cra-template-pwa ```
