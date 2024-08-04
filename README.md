@@ -62,17 +62,11 @@ Throughout this course, we will be using various tools and technologies, includi
 - Firebase (for deploying your PWA)
 
 ## Instructor
-[Instructor's Name] is a seasoned web developer with extensive experience in building and deploying Progressive Web Apps. [Instructor's Name] has worked on numerous projects that leverage the power of PWAs to deliver exceptional user experiences.
+Maximilian is a seasoned web developer with extensive experience in building and deploying Progressive Web Apps. [Instructor's Name] has worked on numerous projects that leverage the power of PWAs to deliver exceptional user experiences.
 
 ## Enroll Now
 Join us on this exciting journey to master Progressive Web Apps and build modern, high-performance web applications that your users will love!
 
-[Sign Up for the Course](#)
+[Sign Up for the Course](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/)
 
-## Contact
-For any questions or more information about the course, please contact us at [email@example.com](mailto:email@example.com).
-
----
-
-Thank you for choosing our Progressive Web App Course. We look forward to seeing you in class!
 
